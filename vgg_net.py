@@ -1,4 +1,5 @@
-import tensorflow as tf
+# thanks to https://github.com/chiphuyen/stanford-tensorflow-tutorials for vgg_net code
+importimportimport tensorflow as tf
 import scipy.io
 
 class VGG:
